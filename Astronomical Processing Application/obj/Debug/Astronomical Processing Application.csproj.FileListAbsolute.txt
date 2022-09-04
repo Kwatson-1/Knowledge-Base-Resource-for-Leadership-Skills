@@ -1,0 +1,10 @@
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.exe.config
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.exe
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\bin\Debug\Astronomical Processing Application.pdb
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.AssemblyReference.cache
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\obj\Debug\Astronomical_Processing_Application.Form1.resources
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\obj\Debug\Astronomical_Processing_Application.Properties.Resources.resources
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.GenerateResource.cache
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.exe
+C:\Users\Kyle\Documents\GitHub\Knowledge-Base-Resource-for-Leadership-Skills\Astronomical Processing Application\obj\Debug\Astronomical Processing Application.pdb
